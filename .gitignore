@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+#IDE
+.idea
+
+# Local diagnostics and downloaded tooling
+.qa-tools/
